@@ -1,0 +1,25 @@
+html {
+    padding: 50px;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+body div {
+    margin-right: 20px;
+}
+/*$num = substr_count(''.$item2.'','/');*/
+/*$explode = explode("/", $item2);*/
+/*$end = end($explode);*/
+/*$end = '';*/
+/*echo $num;*/
+/*//                $four = $url;   !* Приравнять к этой переменной*!*/
+/*//                $text = $one.'/'.$two.'/'.$three.'/'.$four.'<br>';*/
+
+
+
+/*//                $filename = 'somefile2.txt';*/
+/*//                file_put_contents($filename, $text.PHP_EOL, FILE_APPEND);*/
